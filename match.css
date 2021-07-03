@@ -1,0 +1,140 @@
+*
+{
+	font: caption;
+	margin-top: 15px;
+	background:linear-gradient(45deg,orange,white,green);
+background-size:cover;
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-position:center;
+font-style: cu
+}
+.ab 
+{
+	height: 90px;
+	width: 100%;
+
+}
+th .vb
+{
+	background: linear-gradient(45deg,green,coral,blue);
+	padding: 20px;
+	border-radius: 20px 20px 20px 20px;
+	width: 25px;
+	margin-left: 20px;
+	margin-right:20px;
+	font-size: 50px;
+	font-weight: bold;
+}
+/*.df
+{
+	font-size: 60px;
+	font-weight: bold;
+	margin: 25px;
+}*/
+.nm
+{
+	font-size: 40px; 
+	padding: 10px;
+	border: 0 10px 10px 0;
+	background:linear-gradient(45deg,orange,blue,green);
+	display: inline-block;
+	margin-bottom: 50px;
+
+}
+	
+.ab ul 
+{
+	float: right;
+	list-style: none;
+	margin:10px;
+}
+.cd ul li
+{
+	display:inline-block;
+	background-color: blue;
+	margin: 5px;
+}
+th
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 50px;
+	color: violet;
+	}
+	
+.cd ul li a
+{
+	text-decoration: none;
+	font-size:20px;
+	margin:20px;
+	color:blue;
+	margin-right: 5px;
+ }
+ #ij
+{
+	text-align: center;
+	color:maroon;
+	font:bold;
+	font-size: 45px;
+
+}
+
+h2 
+{
+
+	background: linear-gradient(45deg,green,coral,blue);
+	padding: 20px;
+	border-radius: 20px 20px 20px 20px;
+	border-bottom: 5px solid black;
+	width: 150px;
+	margin: auto;
+	box-shadow: 0 0 10px black;
+	color:white; 
+	font-size: 20px;
+	font: bold;
+	text-align: center;
+}
+.lm table 
+{
+   border: 2px solid black;
+   padding: 20px;
+   text-align: center;
+   border-radius: 15px;
+   border-collapse: collapse;
+   width:25%;
+   height: 600px;
+   float: left;	
+}
+.lm
+{
+	position: sticky;
+   top: 0px;
+}
+img
+{
+	margin: 15px;
+}
+p
+{
+	text-align: justify;
+}
+.ol
+{
+	text-align: center;
+
+}
+.bn .vb
+{
+	margin-left: 50px;
+}
+.jk
+{
+	text-align: center;
+}
+
+
+
+
+
+
